@@ -1,0 +1,6 @@
+{
+  "name": "Sweet Home Bakery - Order & Kitchen Management",
+  "description": "Artisan bakery online ordering and real-time kitchen order management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
